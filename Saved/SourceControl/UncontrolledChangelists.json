@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/M_roda.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/Material_003.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/Material_007.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/Material_011.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/Material_012.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/MI_003_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/MI_007_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/MI_012_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/MI_roda_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/MIl_011_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Mat/pngwing_com__2_.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Maps/TestMap.umap",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Blueprint/BP_sleep.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/OutOfbed.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/InBed.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Maps/Hospital.umap",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/NewLevelSequence.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MIl_011_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MI_roda_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MI_012_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MI_007_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MI_003_Inst.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Material_012.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Material_011.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Material_007.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/Material_003.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/M_roda.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/MIl_011_Inst1.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Mesh/pngwing_com__2_.uasset"
+			]
+		}
+	]
+}
