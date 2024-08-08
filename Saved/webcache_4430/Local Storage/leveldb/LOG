@@ -1,3 +1,6 @@
-2024/07/31-16:22:57.626 4990 Reusing MANIFEST D:/Tugas/gm/LakonTheUnforgiven/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/07/31-16:22:57.640 4990 Recovering log #4
-2024/07/31-16:22:57.641 4990 Reusing old log D:/Tugas/gm/LakonTheUnforgiven/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/08/08-16:59:07.704 211c Reusing MANIFEST C:/Users/Azel Bariq/Desktop/LakonTheUnforgiven/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/08-16:59:07.706 211c Recovering log #4
+2024/08/08-16:59:07.707 211c Reusing old log C:/Users/Azel Bariq/Desktop/LakonTheUnforgiven/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/08/08-17:29:24.996 928 Level-0 table #8: started
+2024/08/08-17:29:25.008 928 Level-0 table #8: 12206 bytes OK
+2024/08/08-17:29:25.010 928 Delete type=0 #4

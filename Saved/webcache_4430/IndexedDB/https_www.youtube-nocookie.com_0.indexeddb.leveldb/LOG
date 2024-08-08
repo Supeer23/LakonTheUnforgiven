@@ -1,6 +1,0 @@
-2024/07/26-13:21:46.192 1c5c Creating DB D:/Tugas/gm/LakonTheUnforgiven/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/07/26-13:21:46.213 1c5c Reusing MANIFEST D:/Tugas/gm/LakonTheUnforgiven/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/26-13:25:49.609 2718 Level-0 table #5: started
-2024/07/26-13:25:49.621 2718 Level-0 table #5: 1167 bytes OK
-2024/07/26-13:25:49.624 2718 Delete type=0 #3
-2024/07/26-13:25:49.625 2718 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
