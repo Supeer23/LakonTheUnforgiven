@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.2",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "EIS",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e80602317f6f43fa92e84cb51e286add"
-		}
-	]
+	"Description": ""
 }
