@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/LevelSeq/Diterkam.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/Maps/Hospital.umap",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/HorrorEngine/Blueprints/UsableAssets/PortalAndTriggers/Portal.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/HorrorEngine/Blueprints/Widgets/Menu/MainMenu.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/HorrorEngine/Blueprints/Widgets/IMGFIle/LogoLakon.uasset",
+				"D:/Tugas/gm/LakonTheUnforgiven/Content/HorrorEngine/Blueprints/Widgets/Menu/Settings.uasset",
 				"C:/Kuliah/External/IGDX/Project/LakonTheUnforgiven/Content/Maps/Hospital.umap",
 				"C:/Kuliah/External/IGDX/Project/LakonTheUnforgiven/Content/LevelSeq/Diterkam.uasset",
 				"C:/Kuliah/External/IGDX/Project/LakonTheUnforgiven/Content/Audio/grilcryarea.uasset",
